@@ -24,37 +24,37 @@ function App() {
           <AlumnoCard
             nombre="Daniel Puccio"
             carrera="Desarrollo de Software"
-            estado="Matriculado"
+            estadoInicial="Matriculado"
           />
 
           <AlumnoCard
             nombre="Maria Perez"
             carrera="Diseño gráfico"
-            estado="Inactivo"
+            estadoInicial="Inactivo"
           />
 
           <AlumnoCard
             nombre="Carlos Mendoza"
             carrera="Administración Industrial"
-            estado="Matriculado"
+            estadoInicial="Matriculado"
           />
 
           <AlumnoCard
             nombre="André Gomez"
             carrera="Ingeniería Textil"
-            estado="Inactivo"
+            estadoInicial="Inactivo"
           />
 
           <AlumnoCard
             nombre="Omar Cruz"
             carrera="Agroindustria"
-            estado="Matriculado"
+            estadoInicial="Matriculado"
           />
 
           <AlumnoCard
             nombre="Josue Gonzales"
             carrera="Administración Logística"
-            estado="Inactivo"
+            estadoInicial="Inactivo"
           />
         </div>
 
